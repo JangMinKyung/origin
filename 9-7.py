@@ -7,3 +7,5 @@ for line in in_file:
     day += 1
 print(sale / day)
 print("m")
+print("aa")
+print("d")
