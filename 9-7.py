@@ -6,3 +6,4 @@ for line in in_file:
     sale += int(chicken[1])
     day += 1
 print(sale / day)
+print("m")
